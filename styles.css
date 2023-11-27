@@ -191,7 +191,7 @@ figcaption {
 .active, .dot:hover {
   background-color: black;
 }
-/* Add an italic font style to all quotes */
+
 .i {
   font-style: italic;
   width: auto;
